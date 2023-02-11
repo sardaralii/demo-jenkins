@@ -1,4 +1,4 @@
-# demo-jenkins1
+# demo-jenkins
 
 
-jenkins practice
+jenkins practice projects
